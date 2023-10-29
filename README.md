@@ -1,6 +1,12 @@
  # offerapp
-
-A new Flutter project.
+Welcome to the "OfferApp" repository. This project is a versatile application that combines e-commerce features with an integrated ad platform.
+This project consits three modules - Admin,Customer,Vendors.
+# features
+ - Core E-commerce Functionality
+ - Product Management
+ - Authentication
+ - Banner ads
+ - Multi vendor
 
 ## Getting Started
 
