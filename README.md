@@ -7,7 +7,7 @@ This project consits three modules - Admin,Customer,Vendors.
  - Authentication
  - Banner ads
  - Multi vendor
-
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
